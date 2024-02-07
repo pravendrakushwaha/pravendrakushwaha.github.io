@@ -12,3 +12,8 @@ if u dont use 'let' or var it will automatically define it as a 'var'
 * if we use 'use strict' in our code then we hv to define variable first
 * case senisitive exist
 * we can use non latin words as a var name but not recommondate as good approace
+
+here is one more variable 'const' which can use for static value.
+we cant not change value of const variable after define.
+for the good approach use const variable name like this COLOR_RED COLOR_GREEN.
+
