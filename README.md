@@ -1,5 +1,5 @@
 # pravendrakushwaha.github.io
 
-<a href="Introduction.md">Introduction.MD</a>
-<a href="variable.md">Variable.MD</a>
-<a href="datatype.md">Datatype.MD</a>
+<a href="Introduction.md">Introduction</a> <br>	
+<a href="variable.md">Variable</a> <br>	
+<a href="datatype.md">Datatype</a>
