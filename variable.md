@@ -1,8 +1,8 @@
-A variable is a “named storage” for data. We can use variables to store goodies, visitors, and other data.
+A variable is a “named storage” for data. We can use variables to store data.
 
 To create a variable in JavaScript, use the let keyword.
 
-also we create a vaiable in JavaScript, use the 'var' keyword but the thing is there is one major diffrence if u declare 'var' in main u can access it in all over global area but 'let' cant use out of the block. 
+also we create a variable in JavaScript, use the 'var' keyword but the thing is there is one major diffrence if u declare 'var' in main u can access it in all over global area but 'let' cant use out of the block. 
 
 if u dont use 'let' or var it will automatically define it as a 'var'
 
