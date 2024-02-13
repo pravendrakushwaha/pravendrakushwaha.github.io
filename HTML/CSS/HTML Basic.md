@@ -54,7 +54,9 @@
 * HTML <abbr> tag defines an abbreviation or an acronym, like "HTML", "CSS", "Dr.", "ASAP". Marking abbreviations can give useful information to browsers, translation systems and search-engines.
         <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
 * HTML <address> tag defines the contact information for the author/owner of a document. Text in the <address> element usually renders in italic, and browsers will always add a line break before and after the <address> element.
-
+* HTML <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.). The text in the <cite> element usually renders in italic.
+* HTML <bdo> tag is used to override the current text direction.
+        <bdo dir="rtl">This text will be written from right to left</bdo>
 
 
 
